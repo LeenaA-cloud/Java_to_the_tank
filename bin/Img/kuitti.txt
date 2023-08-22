@@ -1,0 +1,154 @@
+Sat Oct 17 17:31:00 EEST 2020P‰iv‰m‰‰r‰ :Sat Oct 17 17:30:58 EEST 2020
+Summa: 
+Litrat: 
+Tyyppi: 95
+Sat Oct 17 17:38:21 EEST 2020P‰iv‰m‰‰r‰ :Sat Oct 17 17:38:17 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: 95
+Sat Oct 17 17:39:58 EEST 2020P‰iv‰m‰‰r‰ :Sat Oct 17 17:39:46 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: 95
+Sat Oct 17 17:42:34 EEST 2020P‰iv‰m‰‰r‰ :Sat Oct 17 17:42:33 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: 95
+Sat Oct 17 17:50:39 EEST 2020P‰iv‰m‰‰r‰ :Sat Oct 17 17:50:37 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: 95
+Sat Oct 17 17:56:10 EEST 2020P‰iv‰m‰‰r‰ :Sat Oct 17 17:55:41 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: 95
+Sat Oct 17 17:56:29 EEST 2020P‰iv‰m‰‰r‰ :Sat Oct 17 17:55:41 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: 95
+Sat Oct 17 18:06:15 EEST 2020P‰iv‰m‰‰r‰ :Sat Oct 17 17:57:04 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: 95
+Sun Oct 18 10:06:50 EEST 2020P‰iv‰m‰‰r‰ :Sun Oct 18 10:06:45 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: 98
+Sun Oct 18 10:30:07 EEST 2020P‰iv‰m‰‰r‰ :Sun Oct 18 10:30:06 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: 95
+Sun Oct 18 11:05:55 EEST 2020P‰iv‰m‰‰r‰ :Sun Oct 18 11:05:52 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: 98
+Sun Oct 18 18:11:40 EEST 2020P‰iv‰m‰‰r‰ :Sun Oct 18 18:11:39 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: 98
+Tue Oct 20 17:57:12 EEST 2020P‰iv‰m‰‰r‰ :Tue Oct 20 17:57:11 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: 95
+Tue Oct 20 18:44:37 EEST 2020
+Tue Oct 20 18:51:59 EEST 2020P‰iv‰m‰‰r‰ :Tue Oct 20 18:51:59 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: 98
+Tue Oct 20 18:52:36 EEST 2020
+Tue Oct 20 18:56:34 EEST 2020P‰iv‰m‰‰r‰ :Tue Oct 20 18:56:33 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: 98
+Tue Oct 20 18:58:05 EEST 2020P‰iv‰m‰‰r‰ :Tue Oct 20 18:58:02 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: 95
+Tue Oct 20 19:02:11 EEST 2020P‰iv‰m‰‰r‰ :Tue Oct 20 19:02:10 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: 98
+Tue Oct 20 19:03:56 EEST 2020P‰iv‰m‰‰r‰ :Tue Oct 20 19:03:55 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: 98
+Tue Oct 20 19:07:12 EEST 2020P‰iv‰m‰‰r‰ :Tue Oct 20 19:07:11 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: 95
+Tue Oct 20 19:31:15 EEST 2020
+Tue Oct 20 19:31:33 EEST 2020P‰iv‰m‰‰r‰ :Tue Oct 20 19:31:32 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: E95
+Tue Oct 20 19:32:29 EEST 2020P‰iv‰m‰‰r‰ :Tue Oct 20 19:32:28 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: E95
+Tue Oct 20 19:34:00 EEST 2020P‰iv‰m‰‰r‰ :Tue Oct 20 19:33:59 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: E95
+Tue Oct 20 19:36:47 EEST 2020P‰iv‰m‰‰r‰ :Tue Oct 20 19:36:47 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: E95
+Tue Oct 20 19:45:07 EEST 2020P‰iv‰m‰‰r‰ :Tue Oct 20 19:45:06 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: E95
+Tue Oct 20 19:47:11 EEST 2020
+Tue Oct 20 19:51:38 EEST 2020P‰iv‰m‰‰r‰ :Tue Oct 20 19:51:30 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: E95
+Tue Oct 20 19:54:03 EEST 2020P‰iv‰m‰‰r‰ :Tue Oct 20 19:51:30 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: E95
+Wed Oct 21 09:37:08 EEST 2020P‰iv‰m‰‰r‰ :Wed Oct 21 09:37:07 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: E98
+Wed Oct 21 10:27:58 EEST 2020P‰iv‰m‰‰r‰ :Wed Oct 21 10:27:48 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: E98
+Wed Oct 21 17:17:38 EEST 2020P‰iv‰m‰‰r‰ :Wed Oct 21 17:17:37 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: E95
+Wed Oct 21 17:59:26 EEST 2020P‰iv‰m‰‰r‰ :Wed Oct 21 17:59:16 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: E95
+Wed Oct 21 18:00:36 EEST 2020P‰iv‰m‰‰r‰ :Wed Oct 21 18:00:36 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: E98
+Wed Oct 21 18:04:56 EEST 2020P‰iv‰m‰‰r‰ :Wed Oct 21 18:04:55 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: E95
+Wed Oct 21 18:22:30 EEST 2020P‰iv‰m‰‰r‰ :Wed Oct 21 18:22:27 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: E95
+Wed Oct 21 19:01:52 EEST 2020P‰iv‰m‰‰r‰ :Wed Oct 21 19:01:50 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: E95
+Wed Oct 21 19:05:57 EEST 2020P‰iv‰m‰‰r‰ :Wed Oct 21 19:05:50 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: E98
+Wed Oct 21 19:20:53 EEST 2020P‰iv‰m‰‰r‰ :Wed Oct 21 19:20:52 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: E95
+Thu Oct 22 12:54:36 EEST 2020
+Fri Oct 23 11:45:02 EEST 2020
+Sat Oct 24 16:10:55 EEST 2020P‰iv‰m‰‰r‰ :Sat Oct 24 16:10:52 EEST 2020
+Summa: 
+Litrat: null
+Tyyppi: E95
